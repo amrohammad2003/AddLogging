@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nO81mYxCzaU=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\new laptop\\Desktop\\projects\\ClassLibrary1\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'AutoMapper.Extensions.Microsoft.DependencyInjection (>= 12.0.1)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
